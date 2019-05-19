@@ -1,0 +1,13 @@
+{
+    "name": "moonhyuk/php",
+    "authors": [
+        {
+            "name": "moonhyuk",
+            "email": "godmoon00@naver.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["./"]
+    }
+}
